@@ -8,6 +8,14 @@ My focus is practical AI response evaluation, technical QA, AI-assisted software
 
 ## Featured Projects
 
+### [AI Evaluation Portfolio](https://github.com/h2so4nackl-code/ai-evaluation-portfolio)
+
+A portfolio of 40 complete, fictional AI response evaluations demonstrating evidence-based review and practical scoring judgment.
+
+- Worked evaluations across eight task categories
+- Anchored 1–5 scoring with evidence, strengths, weaknesses, and suggested improvements
+- Controlled response comparisons, reusable scorecards, prompts, and templates
+
 ### [AI Response Evaluation Lab](https://github.com/h2so4nackl-code/ai-response-evaluation-lab)
 
 A model-agnostic handbook for practical AI response evaluation and quality review.
