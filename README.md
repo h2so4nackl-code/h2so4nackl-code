@@ -6,7 +6,17 @@ I'm an AI enthusiast and independent technical tester with 1+ year of daily hand
 
 I'm particularly interested in AI evaluation, technical QA, workflow optimization, and helping improve AI-powered products through structured testing and clear documentation.
 
-## What I work with
+## Featured Project
+
+### [AI Prompt Engineering](https://github.com/h2so4nackl-code/ai-prompt-engineering)
+
+A practical, model-agnostic knowledge base for AI evaluation, technical QA, troubleshooting, software testing, and documentation.
+
+- Structured prompt design and evaluation workflows
+- Reusable QA, troubleshooting, and documentation templates
+- Fictional, anonymized case studies demonstrating evidence-based analysis
+
+## What I Work With
 
 - Prompt engineering for practical testing and troubleshooting tasks
 - AI response evaluation for clarity, accuracy, consistency, and usefulness
@@ -15,7 +25,7 @@ I'm particularly interested in AI evaluation, technical QA, workflow optimizatio
 - Technical documentation and clear test feedback
 - Windows, Android, PowerShell, WSL, GitHub, and CLI workflows
 
-## Current focus
+## Current Focus
 
 - Evaluating AI-assisted workflows and improving prompt quality
 - Building repeatable test cases for technical and CLI-based workflows
@@ -52,14 +62,14 @@ I enjoy learning new AI tools, comparing their capabilities, and documenting pra
 - GitHub Collaboration
 - CLI Workflows
 
-## Selected experience
+## Selected Experience
 
 - 1+ year of daily hands-on use of generative AI tools
 - Independent DEX.DO testing on Shellnet, including CLI testing and end-to-end BUY/SELL workflow validation
 - Reproduction and reporting of technical issues with clear steps and observations
 - Public technical communication with developers through GitHub issue discussions
 
-## Tools and technologies
+## Tools and Technologies
 
 ### AI Models
 
