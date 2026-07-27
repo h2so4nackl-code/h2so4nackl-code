@@ -1,18 +1,26 @@
 # Hi, I'm h2so4nackl-code 👋
 
-AI Testing • Prompt Engineering • Technical QA & AI Evaluation • Generative AI
+AI Evaluation • Prompt Engineering • Technical QA • AI-Assisted Software Testing
 
 I'm an AI enthusiast and independent technical tester with 1+ year of daily hands-on experience using generative AI for prompt engineering, technical problem-solving, workflow evaluation, and software testing.
 
-I'm particularly interested in AI evaluation, technical QA, workflow optimization, and helping improve AI-powered products through structured testing and clear documentation.
+My focus is practical AI response evaluation, technical QA, AI-assisted software testing, technical documentation, and CLI workflow testing.
 
-## Featured Project
+## Featured Projects
+
+### [AI Response Evaluation Lab](https://github.com/h2so4nackl-code/ai-response-evaluation-lab)
+
+A model-agnostic handbook for practical AI response evaluation and quality review.
+
+- Evidence-based scoring with anchored 1–5 rubrics
+- Reviewer calibration, disagreement resolution, evaluation bias awareness, and multilingual considerations
+- Reusable checklists, decision trees, worked examples, case studies, and templates
 
 ### [AI Prompt Engineering](https://github.com/h2so4nackl-code/ai-prompt-engineering)
 
-A practical, model-agnostic knowledge base for AI evaluation, technical QA, troubleshooting, software testing, and documentation.
+A practical, model-agnostic knowledge base for structured prompt design across AI evaluation, technical QA, troubleshooting, software testing, and documentation.
 
-- Structured prompt design and evaluation workflows
+- Prompt design principles and repeatable workflows
 - Reusable QA, troubleshooting, and documentation templates
 - Fictional, anonymized case studies demonstrating evidence-based analysis
 
