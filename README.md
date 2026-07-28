@@ -10,7 +10,7 @@ My focus is practical AI response evaluation, technical QA, AI-assisted software
 
 ### [AI Evaluation Portfolio](https://github.com/h2so4nackl-code/ai-evaluation-portfolio)
 
-A portfolio of 40 complete, fictional AI response evaluations demonstrating evidence-based review and practical scoring judgment.
+A portfolio of 43 complete, fictional AI response evaluations demonstrating evidence-based review and practical scoring judgment.
 
 - Worked evaluations across eight task categories
 - Anchored 1–5 scoring with evidence, strengths, weaknesses, and suggested improvements
