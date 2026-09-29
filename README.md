@@ -1,133 +1,61 @@
-# Hi, I'm h2so4nackl-code 👋
+# Hi, I'm Ioan 👋
 
-AI Evaluation • Prompt Engineering • Technical QA • AI-Assisted Software Testing
+Independent technical tester building practical evidence in **AI evaluation, software QA, API testing, and technical troubleshooting**.
 
-I'm an AI enthusiast and independent technical tester with 1+ year of daily hands-on experience using generative AI for prompt engineering, technical problem-solving, workflow evaluation, and software testing.
+I am interested in entry-level and project-based opportunities where careful manual testing, reproducible bug reports, structured evaluation, and clear technical documentation matter. The work below consists of personal portfolio projects and independent testing—not employer or client work unless explicitly stated.
 
-My focus is practical AI response evaluation, technical QA, AI-assisted software testing, technical documentation, and CLI workflow testing.
+## What I work on
 
-## Featured Projects
+- Manual, exploratory, and regression testing
+- REST API and WebSocket contract testing
+- AI/LLM response and endpoint evaluation
+- Test-case design and reproducible bug reporting
+- Technical troubleshooting across Windows, WSL, Git, GitHub, and CLI workflows
+- Basic Python automation for repeatable checks and reports
+
+## Featured projects
+
+### [AI API Evaluation Toolkit](https://github.com/h2so4nackl-code/ai-api-evaluation-toolkit)
+
+Local-first Python checks for OpenAI-compatible endpoints: HTTP status, JSON and response shape, latency, timeout, retry, empty content, and safe JSON reports.
+
+### [API & WebSocket Test Suite](https://github.com/h2so4nackl-code/api-websocket-test-suite)
+
+Deterministic REST and WebSocket QA examples covering contracts, malformed messages, reconnect attempts, event ordering, duplicate detection, latency, and JUnit reporting.
+
+### [QA Test Cases & Bug Reports Portfolio](https://github.com/h2so4nackl-code/qa-test-cases-bug-reports)
+
+Fictional manual and API test cases, reproducible bug reports, regression coverage, and an exploratory testing charter written for recruiter review.
 
 ### [AI Evaluation Portfolio](https://github.com/h2so4nackl-code/ai-evaluation-portfolio)
 
-A portfolio of 43 complete, fictional AI response evaluations demonstrating evidence-based review and practical scoring judgment.
+Forty-three fictional, model-agnostic AI response evaluations with anchored scoring, evidence, controlled comparisons, and reusable templates.
 
-- Worked evaluations across eight task categories
-- Anchored 1–5 scoring with evidence, strengths, weaknesses, and suggested improvements
-- Controlled response comparisons, reusable scorecards, prompts, and templates
+### [Blockchain / dApp Testing Toolkit](https://github.com/h2so4nackl-code/blockchain-dapp-testing-toolkit)
+
+Read-only JSON-RPC validation, error classification, transaction-field inspection, state checks, and sanitized reports. No wallets, signing, secrets, or private endpoints.
 
 ### [AI Response Evaluation Lab](https://github.com/h2so4nackl-code/ai-response-evaluation-lab)
 
-A model-agnostic handbook for practical AI response evaluation and quality review.
+A practical handbook for evidence-based AI response review, scoring consistency, reviewer calibration, and uncertainty handling.
 
-- Evidence-based scoring with anchored 1–5 rubrics
-- Reviewer calibration, disagreement resolution, evaluation bias awareness, and multilingual considerations
-- Reusable checklists, decision trees, worked examples, case studies, and templates
+## Tools and technologies
 
-### [AI Prompt Engineering](https://github.com/h2so4nackl-code/ai-prompt-engineering)
+Python · pytest · REST · WebSocket · JSON · HTTP · JSON-RPC · Git · GitHub · PowerShell · WSL · Windows · CLI
 
-A practical, model-agnostic knowledge base for structured prompt design across AI evaluation, technical QA, troubleshooting, software testing, and documentation.
+## Working principles
 
-- Prompt design principles and repeatable workflows
-- Reusable QA, troubleshooting, and documentation templates
-- Fictional, anonymized case studies demonstrating evidence-based analysis
-
-## What I Work With
-
-- Prompt engineering for practical testing and troubleshooting tasks
-- AI response evaluation for clarity, accuracy, consistency, and usefulness
-- AI-assisted software testing and technical troubleshooting
-- Bug reproduction, reporting, and workflow validation
-- Technical documentation and clear test feedback
-- Windows, Android, PowerShell, WSL, GitHub, and CLI workflows
-
-## Current Focus
-
-- Evaluating AI-assisted workflows and improving prompt quality
-- Building repeatable test cases for technical and CLI-based workflows
-- Independently testing DEX.DO on Shellnet, including end-to-end BUY/SELL flows
-- Producing clear bug reports and collaborating with developers through public GitHub issue discussions
-
-I enjoy learning new AI tools, comparing their capabilities, and documenting practical workflows that improve productivity, software quality, and AI-assisted problem solving.
-
-## Currently Learning
-
-- AI evaluation methodologies
-- Prompt optimization techniques
-- Technical QA workflows
-- CLI-based testing
-- Git & GitHub best practices
-- AI-assisted automation
-
-## Goals
-
-- Build high-quality AI evaluation projects
-- Improve prompt engineering techniques
-- Expand my public technical portfolio
-- Contribute to AI testing and documentation
-
-## Core Skills
-
-- Prompt Engineering
-- AI Evaluation
-- Technical QA
-- Bug Reproduction
-- Workflow Testing
-- Technical Troubleshooting
-- Technical Documentation
-- GitHub Collaboration
-- CLI Workflows
-
-## Selected Experience
-
-- 1+ year of daily hands-on use of generative AI tools
-- Independent DEX.DO testing on Shellnet, including CLI testing and end-to-end BUY/SELL workflow validation
-- Reproduction and reporting of technical issues with clear steps and observations
-- Public technical communication with developers through GitHub issue discussions
-
-## Tools and Technologies
-
-### AI Models
-
-- ChatGPT
-- Claude
-- Claude Code
-- Codex
-- Grok
-- Perplexity
-- Gemini
-
-### Development & Testing
-
-- Git
-- GitHub
-- PowerShell
-- WSL
-- CLI
-
-### Operating Systems
-
-- Windows
-- Android
-
-## Interests
-
-- Artificial Intelligence
-- AI Evaluation
-- Technical QA
-- Prompt Engineering
-- Workflow Automation
-- Blockchain Applications
-- Emerging AI Technologies
+- Test observable behavior and record exact evidence.
+- Separate severity, priority, facts, and assumptions.
+- Include positive, negative, boundary, recovery, and privacy cases.
+- Use synthetic or sanitized data in public artifacts.
+- Describe independent testing accurately and avoid unsupported claims.
 
 ## Languages
 
-- Romanian: Native
-- English: Intermediate
-- German: Intermediate
+Romanian (native) · English (intermediate) · German (intermediate)
 
 ## Contact
 
-Feel free to explore my repositories or connect with me here on GitHub.
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ioan-alexandru-a-68b89a427/)
 
-This portfolio will continue to grow as I document new AI workflows, testing projects, and technical learning experiences.
