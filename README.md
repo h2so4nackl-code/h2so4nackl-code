@@ -55,7 +55,3 @@ Python · pytest · REST · WebSocket · JSON · HTTP · JSON-RPC · Git · GitH
 
 Romanian (native) · English (intermediate) · German (intermediate)
 
-## Contact
-
-[Connect with me on LinkedIn](https://www.linkedin.com/in/ioan-alexandru-a-68b89a427/)
-
