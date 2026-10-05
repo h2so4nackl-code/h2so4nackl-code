@@ -49,7 +49,7 @@ A practical handbook for evidence-based AI response review, scoring consistency,
 
 ## Tools and technologies
 
-Python · pytest · REST · WebSocket · JSON · HTTP · JSON-RPC · Git · GitHub · PowerShell · WSL · Windows · CLI
+Python · pytest · Node.js · JavaScript/TypeScript · Tether WDK · x402 · REST · WebSocket · JSON · HTTP · JSON-RPC · Git · GitHub · PowerShell · WSL · Windows · CLI
 
 ## Working principles
 
