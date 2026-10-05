@@ -15,6 +15,14 @@ I am interested in entry-level and project-based opportunities where careful man
 
 ## Featured projects
 
+### [WDK Agent Payment Sandbox](https://github.com/h2so4nackl-code/wdk-agent-payment-sandbox)
+
+WDK/x402 conformance and policy testing for a bounded EVM profile: **136/136 runtime tests**, with Windows and Ubuntu CI passing. Local cryptographic verification and simulated settlement only; no real funds, mainnet, or blockchain broadcast. [Release v0.1.0](https://github.com/h2so4nackl-code/wdk-agent-payment-sandbox/releases/tag/v0.1.0).
+
+### [USDt Invoice Demo](https://github.com/h2so4nackl-code/usdt-invoice-demo)
+
+Local invoice and reconciliation demo with simulation by default and official WDK read-only integration. **82/82 offline tests**, with Windows and Ubuntu CI passing; live Sepolia reads use test USDC, not official USDt, and are verified separately from CI. No signing, transfers, mainnet, or real funds. [Release v0.1.0](https://github.com/h2so4nackl-code/usdt-invoice-demo/releases/tag/v0.1.0).
+
 ### [AI API Evaluation Toolkit](https://github.com/h2so4nackl-code/ai-api-evaluation-toolkit)
 
 Local-first Python checks for OpenAI-compatible endpoints: HTTP status, JSON and response shape, latency, timeout, retry, empty content, and safe JSON reports.
